@@ -1,6 +1,7 @@
 5.1.0 / 2025-03-31
 ========================
 
+
 * Add support for `Uint8Array` in `res.send()`
 * Add support for ETag option in `res.sendFile()`
 * Add support for multiple links with the same rel in `res.links()`
